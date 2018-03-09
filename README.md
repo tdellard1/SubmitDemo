@@ -34,7 +34,7 @@ mSubmit.setOnProgressStart(new SubmitView.OnProgressStart() {
 
 | Function Name |  Effect|
 |:------|:-----|
-|`setBackColor(int color)`| Set the background color of the icon, the default is green(0xff00cd97)，上图Demo设置为蓝色(0xff0097cd)|
+|`setBackColor(int color)`| Set the background color of the icon, the default is green(0xff00cd97)，The Figure Demo Set Blue(0xff0097cd)|
 |`setText(String str)`|Settings button name, default`Submit`|
 |`reset()`|Button will reset to the initial state|
 |`setProgress(float progress)`|Setting the implementation process is executing work|
